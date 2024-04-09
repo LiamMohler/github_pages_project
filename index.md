@@ -37,9 +37,9 @@ Or in order like:
 3. Three
 
 You can even keep track of tasks apparently:
-- [x] you can mark them complete like this
-- [ ] or uncomplete
-- [ ] wow :tada:
+- [x]  you can mark them complete like this
+- [ ]  or uncomplete
+- [ ]  wow :tada:
 
 ***Cool*** right?
 
