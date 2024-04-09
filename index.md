@@ -43,6 +43,6 @@ You can even keep track of tasks apparently:
 
 ***Cool*** right?
 
-Another thing to keep track of would be the [top section](https://github.com/LiamMohler/github_pages_project/new/main#hi--im-liam) of this page.
+Another thing to keep track of would be the [top section](#hi--im-liam) of this page.
 
 Or maybe even the [READ.me](README.md)
